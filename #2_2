@@ -1,6 +1,6 @@
             using System;
 
-namespace массив
+namespace массив 2.2
 {
     class Program
     {
